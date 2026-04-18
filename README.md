@@ -49,34 +49,24 @@
 
 ---
 
-## 🛠️ Programming Languages & Tools
+## 🛠️ Languages & Tools
 
-**Languages & Core Libraries**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**ML / DL Frameworks**
+**Frameworks & Libraries**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![RecBole](https://img.shields.io/badge/RecBole-6C3483?style=for-the-badge&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-**Data & Visualization**
+**Tools**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-
-**Tools & Platforms**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <br/>
@@ -118,8 +108,8 @@ Audited 100k+ member loyalty program — identified a 6% point redemption rate d
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CeciliaDinh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeciliaDinh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CeciliaDinh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CeciliaDinh&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=jupyter%20notebook,html,css" />
 </p>
 
 <br/>
