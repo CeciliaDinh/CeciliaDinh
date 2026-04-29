@@ -5,7 +5,7 @@
 <h2 align="center"><b>Dinh Hang (Cecilia)</b></h2>
 
 <p align="center">
-Data Analyst & Machine Learning Engineer | Customer Behavior · Revenue Optimization · Recommender Systems
+Data Analyst | Customer Behavior · Revenue Optimization · Recommender Systems
 </p>
 
 <p align="center">
@@ -24,15 +24,30 @@ Data Analyst & Machine Learning Engineer | Customer Behavior · Revenue Optimiza
 
 ## 🧠 About Me
 
-Data Analyst & Machine Learning Engineer focused on **understanding and optimizing business systems through data**.
+Data Analyst & Machine Learning Engineer focused on **customer behavior modeling, revenue optimization, and large-scale data systems**.
 
-I specialize in analyzing large-scale transactional data (2M+ users) to uncover:
-- customer behavior patterns  
-- revenue leakage & pricing inefficiencies  
-- retention and churn dynamics  
-- recommendation and personalization opportunities  
+I specialize in transforming **high-volume transactional data (2M+ users)** into insights that drive decisions in pricing, retention, and personalization systems.
 
-I work at the intersection of **data analytics, product thinking, and applied machine learning**.
+---
+
+## 💼 Experience
+
+### 🚚 Ahamove — Business Analyst Intern (Analytics Team)
+*May 2024 – Aug 2024*
+
+Worked on **driver supply optimization, pricing strategy evaluation, and operational analytics** in a real-time logistics platform.
+
+Key contributions:
+
+- Analyzed driver behavior using SQL to optimize **auto-dispatch strategy**, improving driver utilization and supply efficiency in a real-time matching system  
+- Conducted impact analysis of **Dynamic Pricing mechanisms**, quantifying trade-offs between service quality, fulfillment rate, and operational efficiency  
+- Diagnosed low acceptance rates in short-distance orders, identifying key friction points and proposing **incentive-based intervention strategies** for 3+ stakeholders  
+- Built and maintained 5+ automated dashboards (Metabase, Looker), reducing **180+ hours/month of manual reporting** while standardizing KPI tracking across teams  
+
+Impact:
+- Improved visibility of supply-demand imbalance in real-time operations  
+- Enabled data-driven decision-making across pricing and dispatch systems  
+- Reduced reporting overhead and improved cross-team alignment on KPIs  
 
 ---
 
@@ -43,84 +58,79 @@ I work at the intersection of **data analytics, product thinking, and applied ma
 ### 📉 Retail Profitability & Discount Optimization
 *Revenue optimization · Pricing strategy · Behavioral analytics*
 
-Diagnosed a structural profitability issue in a high-revenue retail system where aggressive discounting (>20%) consistently eroded margins.
+Identified a structural profitability issue where aggressive discounting (>20%) was eroding margins despite contributing minimal revenue (~2%) and being used by a small customer segment (~5%).
 
-Key findings:
-- High-discount orders contributed ~2% of revenue but generated ~25% loss
-- Loss concentrated in a small segment (~5% of customers)
-- Customers exhibited bulk-buying behavior (5–7 items/order), especially during seasonal spikes
-- Discount strategy was not driving incremental demand, but **cannibalizing margin**
+Key insights:
+- High-discount customers exhibited bulk-buying behavior (5–7 items/order), especially during seasonal spikes  
+- Discounting did not significantly increase demand, but directly reduced profitability  
+- System showed clear signs of **margin cannibalization rather than growth generation**
 
 Impact:
-- Identified structural break-even failure under current discount policy
 - Proposed **margin-aware discount caps + customer segmentation strategy**
-- Helped reframe discounting from “growth lever” → **controlled pricing mechanism**
+- Reframed discounting from growth lever → controlled pricing mechanism
 
 ---
 
 ### 🧠 Hybrid Recommendation System (LightGCN + GNN)
 *Graph Neural Networks · Recommendation Systems · Multimodal Learning*
 
-Improved collaborative filtering by integrating **graph-based user-item interactions with visual embeddings (CLIP)**.
+Enhanced collaborative filtering by integrating **graph-based user-item interactions with visual embeddings (CLIP)**.
 
-What I built:
-- LightGCN baseline recommender system
-- Multimodal fusion of graph + image embeddings
-- 4 fusion strategies (concat, gated, weighted, MLP-based)
+- Built LightGCN baseline recommender system  
+- Designed multimodal fusion strategies (concat, gated, weighted, MLP-based)  
+- Integrated image features into ranking pipeline  
 
 Impact:
-- +13% improvement in Recall@10 and NDCG@10
-- Improved ranking quality under sparse interaction settings
-- Demonstrated value of multimodal signals in recommender systems
+- +13% improvement in Recall@10 and NDCG@10  
+- Improved ranking performance in sparse interaction environments  
 
 ---
 
 ### 📊 Customer 360 & Churn Analysis
 *Customer lifecycle analysis · Cohort modeling · PySpark pipelines*
 
-Built an end-to-end analytics pipeline on 4M+ transaction records to analyze customer lifecycle behavior.
+Built end-to-end analytics pipeline on 4M+ transactions to understand customer lifecycle behavior.
 
-Key insights:
-- 34% of users churn after only 1–2 purchases
-- Early lifecycle is the critical retention bottleneck
-- Clear segmentation between high-value and low-engagement cohorts
+- Identified 34% churn after 1–2 purchases  
+- Mapped lifecycle bottlenecks in early engagement stage  
+- Segmented users into high-value vs low-engagement cohorts  
 
 Impact:
-- Identified onboarding and activation gap in customer journey
-- Enabled lifecycle-based retention strategy design
+- Revealed onboarding/activation gap in customer journey  
+- Enabled lifecycle-based retention strategy design  
 
 ---
 
 ### 🎯 Loyalty Program Effectiveness Analysis
 *Behavioral segmentation · Funnel analysis · Retention systems*
 
-Evaluated large-scale loyalty system (100K+ users) and identified structural inefficiencies in engagement.
+Analyzed large-scale loyalty program (100K+ users) to evaluate engagement efficiency.
 
 Findings:
-- +120% adoption growth but only 6% redemption rate
-- Loyalty loop breakdown due to weak incentive conversion
-- Engagement heavily concentrated in small high-value segment
+- +120% adoption growth but only 6% redemption rate  
+- Loyalty loop failure due to weak incentive-to-action conversion  
+- Engagement heavily concentrated in small high-value segment  
 
 Impact:
-- Proposed tier-based engagement and reward redesign
-- Improved alignment between loyalty design and user behavior
+- Proposed tier-based engagement redesign  
+- Improved alignment between reward structure and user behavior  
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Data Engineering**
-- SQL · Python (Pandas, NumPy) · PySpark · ETL pipelines
+- SQL · Python (Pandas, NumPy) · PySpark · ETL pipelines  
 
 **Machine Learning**
 - Regression · Classification · Clustering · XGBoost · LightGBM  
-- Recommendation Systems · Graph Neural Networks (GNN)
+- Recommendation Systems · Graph Neural Networks  
 
 **Analytics**
-- Cohort Analysis · A/B Testing · RFM Segmentation · Customer Lifecycle Modeling
+- Cohort Analysis · A/B Testing · Customer Segmentation · RFM  
 
 **Visualization**
-- Power BI · Looker · Metabase
+- Power BI · Looker · Metabase  
 
 ---
 
@@ -128,11 +138,6 @@ Impact:
 
 **International University – VNU**  
 Bachelor of Data Science (2021–2026)
-
-Relevant coursework:
-- Data Analysis
-- Artificial Intelligence
-- Analytics for Observational Data
 
 ---
 
@@ -143,15 +148,15 @@ Relevant coursework:
 
 ---
 
-## 💡 Interests
+## 💡 Focus Areas
 
-- Recommendation systems & personalization at scale  
-- Customer behavior modeling  
-- Revenue optimization & pricing strategy  
-- Machine learning for business decision systems  
+- Customer behavior modeling at scale  
+- Revenue & pricing optimization systems  
+- Recommendation systems & graph learning  
+- Data-driven decision systems for product & operations  
 
 ---
 
 <p align="center">
-  <i>“I use data to find where businesses lose value — and how to recover it.”</i>
+  <i>“I don’t just analyze data — I identify where systems leak value and how to fix them.”</i>
 </p>
