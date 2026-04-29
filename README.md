@@ -2,12 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+%7C+Machine+Learning+%7C+Recommendation+Systems+%7C+Graph+Neural+Networks&center=true&width=650&height=45&color=3399FF&vCenter=true">
 </p>
 
-<h2 align="center">
-  <b>Dinh Hang (Cecilia)</b>
-</h2>
+<h2 align="center"><b>Dinh Hang (Cecilia)</b></h2>
 
 <p align="center">
-Data Analyst & ML Engineer | Turning complex data into business decisions that scale
+Data Analyst & Machine Learning Engineer | Customer Behavior · Revenue Optimization · Recommender Systems
 </p>
 
 <p align="center">
@@ -24,17 +22,17 @@ Data Analyst & ML Engineer | Turning complex data into business decisions that s
 
 ---
 
-## 🧠 Executive Summary
+## 🧠 About Me
 
-Data Analyst & Machine Learning Engineer focused on **customer behavior modeling, revenue optimization, and recommender systems**.
+Data Analyst & Machine Learning Engineer focused on **understanding and optimizing business systems through data**.
 
-I specialize in diagnosing **business inefficiencies hidden inside large-scale transactional data (2M+ users)** and translating them into **actionable strategies across pricing, retention, and personalization systems**.
+I specialize in analyzing large-scale transactional data (2M+ users) to uncover:
+- customer behavior patterns  
+- revenue leakage & pricing inefficiencies  
+- retention and churn dynamics  
+- recommendation and personalization opportunities  
 
-Core focus areas:
-- Revenue & profitability optimization
-- Customer lifecycle & churn behavior
-- Graph-based recommendation systems (GNNs)
-- Scalable data pipelines (PySpark)
+I work at the intersection of **data analytics, product thinking, and applied machine learning**.
 
 ---
 
@@ -42,83 +40,84 @@ Core focus areas:
 
 ---
 
-### 📉 Retail Profitability & Discount Strategy Optimization
-*Revenue optimization · Pricing strategy · Customer behavior analytics*
+### 📉 Retail Profitability & Discount Optimization
+*Revenue optimization · Pricing strategy · Behavioral analytics*
 
-Diagnosed a structural profitability issue in a high-revenue retail system where aggressive discounting (>20%) was systematically eroding margins.
+Diagnosed a structural profitability issue in a high-revenue retail system where aggressive discounting (>20%) consistently eroded margins.
 
 Key findings:
-- High-discount segment contributed only ~2% of revenue but generated ~25% average loss
-- Loss concentrated in a small cohort (~5% of customers)
-- Behavior driven by bulk purchasing of low-margin furniture during seasonal peaks (5–7 items/order)
+- High-discount orders contributed ~2% of revenue but generated ~25% loss
+- Loss concentrated in a small segment (~5% of customers)
+- Customers exhibited bulk-buying behavior (5–7 items/order), especially during seasonal spikes
+- Discount strategy was not driving incremental demand, but **cannibalizing margin**
 
-Business impact:
-- Identified that high discounting was **not demand-generating but margin-destructive**
-- Demonstrated structural break-even infeasibility under current pricing policy
-- Proposed **margin-aware discount caps + segment-based pricing strategy**
+Impact:
+- Identified structural break-even failure under current discount policy
+- Proposed **margin-aware discount caps + customer segmentation strategy**
+- Helped reframe discounting from “growth lever” → **controlled pricing mechanism**
 
 ---
 
-### 🧠 Hybrid Recommendation System (LightGCN + Multimodal GNN)
-*Graph Neural Networks · Recommender systems · Multimodal learning*
+### 🧠 Hybrid Recommendation System (LightGCN + GNN)
+*Graph Neural Networks · Recommendation Systems · Multimodal Learning*
 
-Extended classical collaborative filtering by incorporating **visual semantics into graph-based recommendation systems**.
+Improved collaborative filtering by integrating **graph-based user-item interactions with visual embeddings (CLIP)**.
 
 What I built:
-- LightGCN-based recommender baseline
-- Multimodal fusion of user-item graph + CLIP image embeddings
+- LightGCN baseline recommender system
+- Multimodal fusion of graph + image embeddings
 - 4 fusion strategies (concat, gated, weighted, MLP-based)
 
 Impact:
 - +13% improvement in Recall@10 and NDCG@10
-- Improved ranking quality in sparse interaction settings
-- Demonstrated strong uplift from multimodal signals in recommendation systems
+- Improved ranking quality under sparse interaction settings
+- Demonstrated value of multimodal signals in recommender systems
 
 ---
 
-### 📊 Customer 360 Analytics & Churn Diagnosis
+### 📊 Customer 360 & Churn Analysis
 *Customer lifecycle analysis · Cohort modeling · PySpark pipelines*
 
-Built an end-to-end analytics system on 4M+ transaction records to understand customer lifecycle breakdown.
+Built an end-to-end analytics pipeline on 4M+ transaction records to analyze customer lifecycle behavior.
 
 Key insights:
 - 34% of users churn after only 1–2 purchases
-- Early lifecycle engagement is the primary retention bottleneck
-- Clear segmentation of high-value vs low-engagement cohorts
+- Early lifecycle is the critical retention bottleneck
+- Clear segmentation between high-value and low-engagement cohorts
 
 Impact:
-- Identified critical onboarding gap in customer journey
-- Enabled targeting of lifecycle interventions for activation-to-retention improvement
+- Identified onboarding and activation gap in customer journey
+- Enabled lifecycle-based retention strategy design
 
 ---
 
-### 🎯 Loyalty Program Effectiveness Audit
-*Behavioral segmentation · Funnel analytics · Retention systems*
+### 🎯 Loyalty Program Effectiveness Analysis
+*Behavioral segmentation · Funnel analysis · Retention systems*
 
-Evaluated large-scale loyalty system (100K+ users) and identified structural inefficiencies in reward usage.
+Evaluated large-scale loyalty system (100K+ users) and identified structural inefficiencies in engagement.
 
 Findings:
-- +120% adoption growth but only 6% point redemption rate
-- Loyalty loop breakdown due to weak incentive-to-action conversion
-- Engagement highly skewed toward small high-value segment
+- +120% adoption growth but only 6% redemption rate
+- Loyalty loop breakdown due to weak incentive conversion
+- Engagement heavily concentrated in small high-value segment
 
-Outcome:
-- Proposed tier-specific reward and engagement redesign
-- Improved alignment between program design and user behavior
+Impact:
+- Proposed tier-based engagement and reward redesign
+- Improved alignment between loyalty design and user behavior
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Skills
 
-**Data & Engineering**
-- SQL · Python (Pandas, NumPy) · PySpark
+**Data Engineering**
+- SQL · Python (Pandas, NumPy) · PySpark · ETL pipelines
 
 **Machine Learning**
-- Regression · Tree-based models (XGBoost, LightGBM)
-- Clustering · Recommendation Systems · GNNs
+- Regression · Classification · Clustering · XGBoost · LightGBM  
+- Recommendation Systems · Graph Neural Networks (GNN)
 
 **Analytics**
-- Cohort Analysis · A/B Testing · Customer Segmentation
+- Cohort Analysis · A/B Testing · RFM Segmentation · Customer Lifecycle Modeling
 
 **Visualization**
 - Power BI · Looker · Metabase
@@ -132,8 +131,8 @@ Bachelor of Data Science (2021–2026)
 
 Relevant coursework:
 - Data Analysis
-- Analytics for Observational Data
 - Artificial Intelligence
+- Analytics for Observational Data
 
 ---
 
@@ -144,15 +143,15 @@ Relevant coursework:
 
 ---
 
-## 💡 What I’m Interested In
+## 💡 Interests
 
-- Recommendation systems & graph learning
-- Customer behavior modeling at scale
-- Revenue optimization systems
-- ML systems applied to real business constraints
+- Recommendation systems & personalization at scale  
+- Customer behavior modeling  
+- Revenue optimization & pricing strategy  
+- Machine learning for business decision systems  
 
 ---
 
 <p align="center">
-  <i>“I don’t just analyze data — I look for where the business is leaking value.”</i>
+  <i>“I use data to find where businesses lose value — and how to recover it.”</i>
 </p>
