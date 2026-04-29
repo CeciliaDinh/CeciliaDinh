@@ -33,14 +33,14 @@ I specialize in transforming **high-volume transactional data (2M+ users)** into
 ## 💼 Experience
 
 ### 🚚 Ahamove — Business Analyst Intern (Analytics Team)
-*May 2024 – Aug 2024*
+*May 2025 – Aug 2025*
 
 Worked on **driver supply optimization, pricing strategy evaluation, and operational analytics** in a real-time logistics platform.
 
 Key contributions:
 
 - Analyzed driver behavior using SQL to optimize **auto-dispatch strategy**, improving driver utilization and supply efficiency in a real-time matching system  
-- Conducted impact analysis of **Dynamic Pricing mechanisms**, quantifying trade-offs between service quality, fulfillment rate, and operational efficiency  
+- Conducted impact analysis of **Dynamic Pricing**, and other business initiatives, quantifying trade-offs between service quality, fulfillment rate, and operational efficiency  
 - Diagnosed low acceptance rates in short-distance orders, identifying key friction points and proposing **incentive-based intervention strategies** for 3+ stakeholders  
 - Built and maintained 5+ automated dashboards (Metabase, Looker), reducing **180+ hours/month of manual reporting** while standardizing KPI tracking across teams  
 
