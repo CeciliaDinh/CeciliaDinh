@@ -119,20 +119,15 @@ Impact:
 
 ## 🛠️ Technical Skills
 
-**Data Engineering**
-- SQL · Python (Pandas, NumPy) · PySpark · ETL pipelines  
+**Data Analyst And Manipulation**
+- SQL · Python (Pandas, NumPy) · PySpark 
 
 **Machine Learning**
 - Regression · Classification · Clustering · XGBoost · LightGBM  
 - Recommendation Systems · Graph Neural Networks  
 
-**Analytics**
-- Cohort Analysis · A/B Testing · Customer Segmentation · RFM  
-
 **Visualization**
 - Power BI · Looker · Metabase  
-
----
 
 ## 🎓 Education
 
@@ -146,17 +141,3 @@ Bachelor of Data Science (2021–2026)
 - English: IELTS 7.0  
 - Chinese: HSK 4  
 
----
-
-## 💡 Focus Areas
-
-- Customer behavior modeling at scale  
-- Revenue & pricing optimization systems  
-- Recommendation systems & graph learning  
-- Data-driven decision systems for product & operations  
-
----
-
-<p align="center">
-  <i>“I don’t just analyze data — I identify where systems leak value and how to fix them.”</i>
-</p>
