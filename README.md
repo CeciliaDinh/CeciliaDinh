@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+%7C+Machine+Learning+%7C+Recommendation+Systems+%7C+Graph+Neural+Networks&center=true&width=650&height=45&color=3399FF&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+%7C+Machine+Learning+%7C+Recommendation+Systems+%7C+Graph+Neural+Networks&center=true&width=700&height=45&color=3399FF&vCenter=true">
 </p>
 
-<h2 align="center"><b>Dinh Hang (Cecilia)</b></h2>
+<h1 align="center">Dinh Thi Thanh Hang </h1>
 
 <p align="center">
-Data Analyst | Customer Behavior · Revenue Optimization · Recommender Systems
+Data Analyst 
 </p>
 
 <p align="center">
@@ -20,124 +20,97 @@ Data Analyst | Customer Behavior · Revenue Optimization · Recommender Systems
   </a>
 </p>
 
+# 💼 Professional Experience
+
+## 🚚 Ahamove — Business Analyst Intern (Analytics Team)
+**May 2025 – Aug 2025**
+
+Worked on operational analytics, driver supply optimization, and pricing strategy evaluation within a real-time logistics platform.
+
+### Key Contributions
+
+- Leveraged SQL and operational analytics to optimize auto-dispatch strategies, improving driver utilization and supply efficiency
+- Conducted Root Cause Analysis (RCA) on low driver acceptance rates for short-distance services and proposed operational interventions projected to improve AR by ~7%
+- Evaluated business initiatives including Dynamic Pricing across 3M+ users and 70K+ daily orders
+- Built and maintained 5+ dashboards and automated reporting systems using Metabase and Looker Studio, reducing 180+ hours/month of manual reporting
 ---
 
-## 🧠 About Me
+# 🚀 Featured Projects
 
-Data Analyst & Machine Learning Engineer focused on **customer behavior modeling, revenue optimization, and large-scale data systems**.
+## 🧠 Multi-modal Recommendation System
+**LightGCN • CLIP • Sentence-BERT • Graph Neural Networks**
 
-I specialize in transforming **high-volume transactional data (2M+ users)** into insights that drive decisions in pricing, retention, and personalization systems.
+Built a hybrid recommendation system integrating collaborative filtering with multimodal embeddings from images, text, and metadata.
 
----
+### Highlights
+- Processed Amazon Reviews dataset with 2M+ users and 99% sparsity
+- Integrated CLIP visual embeddings and Sentence-BERT semantic representations
+- Developed scalable pipelines for scraping and processing 1M+ product images
+- Built real-time recommendation visualization with Streamlit
 
-## 💼 Experience
+### Results
+- Achieved ~15% improvement in Recall@K and NDCG over baseline LightGCN 
+- Improved ranking quality in sparse interaction environments
 
-### 🚚 Ahamove — Business Analyst Intern (Analytics Team)
-*May 2025 – Aug 2025*
+## 📊 Customer Retention & Growth Analysis
+**PySpark • Churn Modeling • FP-Growth • Ensemble Learning**
 
-Worked on **driver supply optimization, pricing strategy evaluation, and operational analytics** in a real-time logistics platform.
+Built an end-to-end analytics pipeline to analyze customer lifecycle behavior and predict churn.
 
-Key contributions:
+### Highlights
+- Processed and analyzed 500K+ transactional records using PySpark
+- Performed cohort analysis and customer segmentation
+- Applied FP-Growth for market basket analysis and cross-sell opportunity detection
+- Developed ensemble churn prediction models using LightGBM, XGBoost, and SVM
 
-- Analyzed driver behavior using SQL to optimize **auto-dispatch strategy**, improving driver utilization and supply efficiency in a real-time matching system  
-- Conducted impact analysis of **Dynamic Pricing**, and other business initiatives, quantifying trade-offs between service quality, fulfillment rate, and operational efficiency  
-- Diagnosed low acceptance rates in short-distance orders, identifying key friction points and proposing **incentive-based intervention strategies** for 3+ stakeholders  
-- Built and maintained 5+ automated dashboards (Metabase, Looker), reducing **180+ hours/month of manual reporting** while standardizing KPI tracking across teams  
+### Results
+- Achieved ROC-AUC of 0.92
+- Identified key churn drivers using SHAP explainability
+- Revealed lifecycle bottlenecks and retention gaps
+  
+## 📉 Retail Profitability & Discount Optimization
+**Behavioral Analytics • Pricing Strategy • Customer Segmentation**
 
-Impact:
-- Improved visibility of supply-demand imbalance in real-time operations  
-- Enabled data-driven decision-making across pricing and dispatch systems  
-- Reduced reporting overhead and improved cross-team alignment on KPIs  
+Analyzed retail transactional data to identify profitability leakage caused by ineffective discounting strategies.
 
----
+### Highlights
+- Conducted EDA and Pareto analysis on 4 years of transactional data
+- Identified loss-driving discount tiers and behavioral purchasing patterns
+- Applied PCA and K-means clustering to segment customers into 9 behavioral groups
+- Built interactive Power BI dashboards for business stakeholders
 
-## 🚀 Selected Impact Projects
-
----
-
-### 📉 Retail Profitability & Discount Optimization
-*Revenue optimization · Pricing strategy · Behavioral analytics*
-
-Identified a structural profitability issue where aggressive discounting (>20%) was eroding margins despite contributing minimal revenue (~2%) and being used by a small customer segment (~5%).
-
-Key insights:
-- High-discount customers exhibited bulk-buying behavior (5–7 items/order), especially during seasonal spikes  
-- Discounting did not significantly increase demand, but directly reduced profitability  
-- System showed clear signs of **margin cannibalization rather than growth generation**
-
-Impact:
-- Proposed **margin-aware discount caps + customer segmentation strategy**
-- Reframed discounting from growth lever → controlled pricing mechanism
-
----
-
-### 🧠 Hybrid Recommendation System (LightGCN + GNN)
-*Graph Neural Networks · Recommendation Systems · Multimodal Learning*
-
-Enhanced collaborative filtering by integrating **graph-based user-item interactions with visual embeddings (CLIP)**.
-
-- Built LightGCN baseline recommender system  
-- Designed multimodal fusion strategies (concat, gated, weighted, MLP-based)  
-- Integrated image features into ranking pipeline  
-
-Impact:
-- +13% improvement in Recall@10 and NDCG@10  
-- Improved ranking performance in sparse interaction environments  
-
----
-
-### 📊 Customer 360 & Churn Analysis
-*Customer lifecycle analysis · Cohort modeling · PySpark pipelines*
-
-Built end-to-end analytics pipeline on 4M+ transactions to understand customer lifecycle behavior.
-
-- Identified 34% churn after 1–2 purchases  
-- Mapped lifecycle bottlenecks in early engagement stage  
-- Segmented users into high-value vs low-engagement cohorts  
-
-Impact:
-- Revealed onboarding/activation gap in customer journey  
-- Enabled lifecycle-based retention strategy design  
+### Results
+- Estimated 15% profit uplift through discount optimization strategies
+- Identified deal-seeking customer segment contributing heavily to margin erosion
+- Proposed category-specific promotion strategies and pricing controls
 
 ---
 
-### 🎯 Loyalty Program Effectiveness Analysis
-*Behavioral segmentation · Funnel analysis · Retention systems*
+# 🛠️ Technical Skills
 
-Analyzed large-scale loyalty program (100K+ users) to evaluate engagement efficiency.
+### Programming & Data
+- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
+- SQL (Window Functions, CTEs)
+- PySpark (MLib) 
 
-Findings:
-- +120% adoption growth but only 6% redemption rate  
-- Loyalty loop failure due to weak incentive-to-action conversion  
-- Engagement heavily concentrated in small high-value segment  
+### Machine Learning
+- Regression & Classification
+- Clustering & Segmentation
+- Recommendation Systems
+- Graph Neural Networks
 
-Impact:
-- Proposed tier-based engagement redesign  
-- Improved alignment between reward structure and user behavior  
+### Analytics & Visualization
+- Power BI
+- Looker Studio
+- Metabase
 
----
+# 🏆 Awards & Certifications
 
-## 🛠️ Technical Skills
+- Top 40 Finalist — DAZONE 2026
+- IELTS Academic — Band 7.0
+- Chinese Proficiency Test — HSK Level 4
 
-**Data Analyst And Manipulation**
-- SQL · Python (Pandas, NumPy) · PySpark 
+# 🎓 Education
 
-**Machine Learning**
-- Regression · Classification · Clustering · XGBoost · LightGBM  
-- Recommendation Systems · Graph Neural Networks  
-
-**Visualization**
-- Power BI · Looker · Metabase  
-
-## 🎓 Education
-
-**International University – VNU**  
-Bachelor of Data Science (2021–2026)
-
----
-
-## 🌍 Languages
-
-- English: IELTS 7.0  
-- Chinese: HSK 4  
-
+**International University – Vietnam National University (VNU)**  
+Bachelor’s in Data Science (2021 – 2026)  
