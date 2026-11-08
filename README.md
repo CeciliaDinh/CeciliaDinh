@@ -1,116 +1,69 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+%7C+Machine+Learning+%7C+Recommendation+Systems+%7C+Graph+Neural+Networks&center=true&width=700&height=45&color=3399FF&vCenter=true">
-</p>
+We are now ready to create the final project documentation for **"ZaloPay New Paying User Campaign Effectiveness."**
 
-<h1 align="center">Dinh Thi Thanh Hang </h1>
+You have:
+- The original Jupyter Notebook and its Step 1 analytical summary.
+- Three original datasets and their validation reports.
+- The verified metrics, findings, and methodological limitations.
 
-<p align="center">
-Data Analyst 
-</p>
+Please create a complete, professional **README.md file** from scratch.
 
-<p align="center">
-  <a href="https://linkedin.com/in/hang-dinh-986528186">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hangthanhdinhthi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/CeciliaDinh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Requirements
 
-# 💼 Professional Experience
+**1. Audience and writing style**
+- Target audience: Data Analyst recruiters and hiring managers.
+- Use a professional, concise, consulting-style tone.
+- Focus on business questions, analytical reasoning, measurable findings, and actionable recommendations.
+- Avoid unnecessary explanations of basic Python operations.
 
-## 🚚 Ahamove — Business Analyst Intern (Analytics Team)
-**May 2025 – Aug 2025**
+**2. README structure**
+1. Project Overview
+2. Business Objectives
+3. Dataset Overview
+4. Key Business Metrics & Definitions
+5. Analytical Approach
+   - NPU Acquisition Performance
+   - Campaign Effectiveness
+   - Initial User Intent and Quality
+6. Key Findings & Business Recommendations
+7. Proposed Campaign Evaluation Framework
+8. Limitations & Further Analysis
+9. Tools & Technologies
 
-Worked on operational analytics, driver supply optimization, and pricing strategy evaluation within a real-time logistics platform.
+**3. Charts and visualizations**
 
-### Key Contributions
+Create 4–5 professional charts using the verified data. Prioritize:
+- Monthly NPU acquisition trends.
+- Campaign contribution or campaign-level performance.
+- Campaign subsidy/discount efficiency, if supported by the data.
+- Initial service category distribution.
+- GTV trends, if relevant to the business narrative.
 
-- Leveraged SQL and operational analytics to optimize auto-dispatch strategies, improving driver utilization and supply efficiency
-- Conducted Root Cause Analysis (RCA) on low driver acceptance rates for short-distance services and proposed operational interventions projected to improve AR by ~7%
-- Evaluated business initiatives including Dynamic Pricing across 3M+ users and 70K+ daily orders
-- Built and maintained 5+ dashboards and automated reporting systems using Metabase and Looker Studio, reducing 180+ hours/month of manual reporting
----
+Charts must:
+- Use actual verified data, not manually fabricated values.
+- Have clear titles, labels, units, and readable formatting.
+- Be saved as image files in an `images/` folder.
+- Be embedded in README using relative paths.
 
-# 🚀 Featured Projects
+**4. Analytical integrity**
+- Do not invent CAC, retention, or other metrics that cannot be calculated.
+- Do not describe discount per NPU as full CAC. If applicable, call it a subsidy or incentive-cost proxy.
+- Do not claim campaign fatigue, causality, or retention improvement without supporting evidence.
+- Clearly label assumptions, limitations, and proposed future analyses.
 
-## 🧠 Multi-modal Recommendation System
-**LightGCN • CLIP • Sentence-BERT • Graph Neural Networks**
+**5. Deliverables**
 
-Built a hybrid recommendation system integrating collaborative filtering with multimodal embeddings from images, text, and metadata.
+Please create actual downloadable project files, not just text in the chat:
+- `README.md`
+- `images/` folder containing all charts.
+- Any necessary reproducible Python script used to generate the charts.
+- `VALIDATION_NOTES.md` documenting important metric definitions, discrepancies, and limitations.
 
-### Highlights
-- Processed Amazon Reviews dataset with 2M+ users and 99% sparsity
-- Integrated CLIP visual embeddings and Sentence-BERT semantic representations
-- Developed scalable pipelines for scraping and processing 1M+ product images
-- Built real-time recommendation visualization with Streamlit
+Save everything in a clearly organized project folder. Do not overwrite the original notebook or datasets.
 
-### Results
-- Achieved ~15% improvement in Recall@K and NDCG over baseline LightGCN 
-- Improved ranking quality in sparse interaction environments
+Before finalizing, verify that:
+- All image paths in README are correct.
+- Every reported metric matches the validation results.
+- The README renders correctly in standard GitHub Markdown.
+- No unsupported claims remain.
 
-## 📊 Customer Retention & Growth Analysis
-**PySpark • Churn Modeling • FP-Growth • Ensemble Learning**
-
-Built an end-to-end analytics pipeline to analyze customer lifecycle behavior and predict churn.
-
-### Highlights
-- Processed and analyzed 500K+ transactional records using PySpark
-- Performed cohort analysis and customer segmentation
-- Applied FP-Growth for market basket analysis and cross-sell opportunity detection
-- Developed ensemble churn prediction models using LightGBM, XGBoost, and SVM
-
-### Results
-- Achieved ROC-AUC of 0.92
-- Identified key churn drivers using SHAP explainability
-- Revealed lifecycle bottlenecks and retention gaps
-  
-## 📉 Retail Profitability & Discount Optimization
-**Behavioral Analytics • Pricing Strategy • Customer Segmentation**
-
-Analyzed retail transactional data to identify profitability leakage caused by ineffective discounting strategies.
-
-### Highlights
-- Conducted EDA and Pareto analysis on 4 years of transactional data
-- Identified loss-driving discount tiers and behavioral purchasing patterns
-- Applied PCA and K-means clustering to segment customers into 9 behavioral groups
-- Built interactive Power BI dashboards for business stakeholders
-
-### Results
-- Estimated 15% profit uplift through discount optimization strategies
-- Identified deal-seeking customer segment contributing heavily to margin erosion
-- Proposed category-specific promotion strategies and pricing controls
-
----
-
-# 🛠️ Technical Skills
-
-### Programming & Data
-- Python (Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow)
-- SQL (Window Functions, CTEs)
-- PySpark (MLib) 
-
-### Machine Learning
-- Regression & Classification
-- Clustering & Segmentation
-- Recommendation Systems
-- Graph Neural Networks
-
-### Analytics & Visualization
-- Power BI
-- Looker Studio
-- Metabase
-
-# 🏆 Awards & Certifications
-
-- Top 40 Finalist — DAZONE 2026
-- IELTS Academic — Band 7.0
-- Chinese Proficiency Test — HSK Level 4
-
-# 🎓 Education
-
-**International University – Vietnam National University (VNU)**  
-Bachelor’s in Data Science (2021 – 2026)  
+If you cannot create files or folders directly, explicitly tell me and provide the complete file contents instead.
